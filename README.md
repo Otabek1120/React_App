@@ -79,4 +79,19 @@ My NOTES
 
 ### `npx json-server --watch data/db.json --port 8000`
 
-Link application to the database. 
+Link application to the database.
+
+### npm install
+
+This command will install all the necessary dependencies for your 
+app and create the node_modules folder.
+
+### git remote add origin https://github.com/Otabek1120/React_App.git
+
+Connects to github repos
+
+### git branch -M main
+
+### git push -u origin main
+
+Pushes onto github
